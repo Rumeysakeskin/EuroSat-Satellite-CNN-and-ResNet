@@ -1,5 +1,4 @@
-# EuroSat-Satellite-CNN-and-ResNet
-Classifying custom image datasets by creating from scratch Convolutional Neural Networks and Residual Networks with PyTorch
+Classifying custom image datasets by creating Convolutional Neural Networks and Residual Networks from scratch with PyTorch
 ---
 - ### Dataset
 [EuroSAT: Land Use and Land Cover Classification with Sentinel-2](https://github.com/phelber/eurosat)
